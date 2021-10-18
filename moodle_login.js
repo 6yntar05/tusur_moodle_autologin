@@ -2,9 +2,9 @@
 
 //Change constants!
 
-const userdata_moodle_username = "";
-const userdata_moodle_password = "";
-const url_join_to = "https://github.com/6yntar05";
+const userdata_moodle_username = "username";
+const userdata_moodle_password = "password";
+const url_join_to = "Enter you target moodle lecture url (main page)";
 
 function func_login(){
 
